@@ -5,5 +5,6 @@ This was a group project with five of my peers, where we collaborated to ensure 
 The project enhanced our data handling, analytical, and visualization skills in Excel.
 We applied the concepts taught in our UNP classes, gaining practical exposure to business analytics.
 This experience strengthened my proficiency in Excel for real-world financial data analysis. Additionally, we learned how to structure and present data-driven reports professionally. The project helped us understand the importance of data-driven decision-making in the financial sector
+
 EXCEL FILE:
 https://docs.google.com/spreadsheets/d/1JwC6OQvL5M85N0ycoyC-MtapUqfy8UCK/edit?usp=sharing&ouid=115686170119043609551&rtpof=true&sd=true
