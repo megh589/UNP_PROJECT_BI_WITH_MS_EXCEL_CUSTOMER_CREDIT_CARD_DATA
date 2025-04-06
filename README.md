@@ -1,0 +1,2 @@
+# UNP_PROJECT_BI_WITH_MS_EXCEL_CUSTOMER_CREDIT_CARD_DATA
++As a group project an Excel dashboard was created using credit card data to analyze spending patterns, transaction trends, and customer behavior. It includes interactive charts, filters, and summary tables to help identify spending categories, high-value transactions. The dashboard enhances  decision-making for financial analysis and monitoring.
