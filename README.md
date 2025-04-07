@@ -1,4 +1,4 @@
-UNP_PROJECT_BI_WITH_MS_EXCEL_CUSTOMER_CREDIT_CARD_DATA
+# UNP_PROJECT_BI_WITH_MS_EXCEL_CUSTOMER_CREDIT_CARD_DATA
 
 As part of my MBA coursework, my team and I worked on an Excel-based data analysis project for MVPS Bank. We handled a large dataset, applying pivot tables, slicers, and dashboards to extract key insights.
 Our project focused on visualizing trends, customer spending behavior, and performance metrics effectively.
@@ -7,5 +7,4 @@ The project enhanced our data handling, analytical, and visualization skills in 
 We applied the concepts taught in our UNP classes, gaining practical exposure to business analytics.
 This experience strengthened my proficiency in Excel for real-world financial data analysis. Additionally, we learned how to structure and present data-driven reports professionally. The project helped us understand the importance of data-driven decision-making in the financial sector
 
-EXCEL FILE:
-https://docs.google.com/spreadsheets/d/1JwC6OQvL5M85N0ycoyC-MtapUqfy8UCK/edit?usp=sharing&ouid=115686170119043609551&rtpof=true&sd=true
+EXCEL FILE: https://1drv.ms/x/c/151751b8c6ae1433/ETilui3EQflMqdTbMZDeI8QBn1GT3rHvdAjLZOkBoUFnUw?e=YAPhqI
